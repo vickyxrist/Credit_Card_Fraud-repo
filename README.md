@@ -1,2 +1,7 @@
-# Credit_Card_Fraud-repo
-This project created using Google Colabs Notebook and it is available at https://drive.google.com/drive/folders/1Pka_SkNqR5iDc881SxLXKTqIoAWJ0-YZ .
+# Data Science Portfolio
+This projects created by me using Google Colabs Notebook, they're also available at https://drive.google.com/drive/folders/1Bzx4nnlPvApPUONuq58YfCYg4KuGHrIC .
+
+## Contents
+* Amazon Best Selling Books : Data visualization and regression model for predicting book's rating.
+* Water Quality Analysis : Feature engineering and classification model.
+* Credit Card Fraud Detection : building a classification model and dealing with highly imbalanced data.
